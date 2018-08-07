@@ -1,3 +1,5 @@
 /build
 /dl
 /image
+.idea
+*.iml

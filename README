@@ -135,3 +135,15 @@ Run ./N-xxxxxxxxxxx.sh scripts in order.
 
 Built image will be available in image/OpenRG-modified.bin.lzma
 
+Using Docker
+------------
+
+docker build -t bthh5afwmod -f docker/Dockerfile .
+docker run -it bthh5afwmod
+
+./1-build-tools.sh
+...
+
+
+
+
